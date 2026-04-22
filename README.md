@@ -1,12 +1,12 @@
-Desktop AI-based Virtual Assistant (Jarvis) using Speech Recognition
+**Desktop AI-based Virtual Assistant (Jarvis) using Speech Recognition**
 Jarvis is a Python-based personal AI desktop assistant designed to automate daily tasks, respond to voice commands, and improve productivity through intelligent system interaction.
 
-Project Overview
+**Project Overview**
 This project simulates a smart virtual assistant (like Iron Man’s JARVIS) that can understand user commands and perform various desktop operations such as opening applications, answering questions, and automating routine tasks.
 
 The project is developed as an academic project and focuses on combining AI concepts, automation, and voice interaction using Python.
 
-✨ Features
+✨**Features**
 - 🎙️ Voice command recognition
 - 🧠 Text-to-speech responses
 - 🖥️ Open and control system applications
@@ -52,18 +52,19 @@ Jarvis/
 Suitable for **BTech
 
 Demonstrates concepts of:
--Artificial Intelligence
--Automation
--Human–Computer Interaction
--Python Programming
--🚀 Future Enhancements
--Add GUI using Tkinter or PyQt
--Integrate Machine Learning models
--Support offline command execution
--Add chatbot-based conversation
--Mobile or web integration
-👨‍💻 Author
- Ujjawal Agarwal Student | Python Developer | AI Enthusiast
+- Artificial Intelligence
+- Automation
+- Human–Computer Interaction
+- Python Programming
+- 🚀 Future Enhancements
+- Add GUI using Tkinter or PyQt
+- Integrate Machine Learning models
+- Support offline command execution
+- Add chatbot-based conversation
+- Mobile or web integration
+  
+👨‍💻**Author
+ Ujjawal Agarwal Student | Python Developer | AI Enthusiast**
 
 📜 License
 This project is for educational purposes only.
