@@ -6,7 +6,7 @@ This project simulates a smart virtual assistant (like Iron Man’s JARVIS) that
 
 The project is developed as an academic project and focuses on combining AI concepts, automation, and voice interaction using Python.
 
-- ✨ Features
+✨ Features
 - 🎙️ Voice command recognition
 - 🧠 Text-to-speech responses
 - 🖥️ Open and control system applications
@@ -19,14 +19,14 @@ The project is developed as an academic project and focuses on combining AI conc
 **Programming Language: Python**
 
 Libraries Used:
-
-SpeechRecognition
-pyttsx3
-PyAudio
-os
-webbrowser
-datetime
-wikipedia (optional)
+- SpeechRecognition
+- pyttsx3
+- PyAudio
+- os
+- webbrowser
+- datetime
+- wikipedia (optional)
+  
 ⚙️ Installation
 Clone the repository:
 
@@ -52,19 +52,18 @@ Jarvis/
 Suitable for **BTech
 
 Demonstrates concepts of:
-
-Artificial Intelligence
-Automation
-Human–Computer Interaction
-Python Programming
-🚀 Future Enhancements
-Add GUI using Tkinter or PyQt
-Integrate Machine Learning models
-Support offline command execution
-Add chatbot-based conversation
-Mobile or web integration
+-Artificial Intelligence
+-Automation
+-Human–Computer Interaction
+-Python Programming
+-🚀 Future Enhancements
+-Add GUI using Tkinter or PyQt
+-Integrate Machine Learning models
+-Support offline command execution
+-Add chatbot-based conversation
+-Mobile or web integration
 👨‍💻 Author
- Student | Python Developer | AI Enthusiast
+ Ujjawal Agarwal Student | Python Developer | AI Enthusiast
 
 📜 License
 This project is for educational purposes only.
