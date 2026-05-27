@@ -64,7 +64,7 @@ Demonstrates concepts of:
 - Mobile or web integration
   
 👨‍💻**Author
- Ujjawal Agarwal Student | Python Developer | AI Enthusiast**
+ - Ujjawal Agarwal Student | Python Developer | AI Enthusiast**
 
 📜 License
-This project is for educational purposes only.
+- This project is for educational purposes only.
