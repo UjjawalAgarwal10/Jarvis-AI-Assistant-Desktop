@@ -30,7 +30,7 @@ Libraries Used:
 ⚙️ Installation
 Clone the repository:
 
-git clone https://github.com/your-username/jarvis-ai-assistant.git
+git clone https://github.com/UjjawalAgarwal10/jarvis-ai-assistant.git
 Navigate to the project directory:
 
 cd jarvis-ai-assistant
